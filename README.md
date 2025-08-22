@@ -1,16 +1,14 @@
-## Hi there 👋
+# Aditi Singh, PhD
+Director, Bioinformatics Core (OmicsInsight) — Wayne State University
 
-<!--
-**aditispt/aditispt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computational immunology • scRNA-seq • multi-omics pipelines**
+I build reproducible R/Python workflows that turn messy single-cell data into publishable biology.
 
-Here are some ideas to get you started:
+### Featured work
+- **Dendritic-Cells** — uDC scRNA-seq pipeline (QC→UMAP→CellChat→GO) with GEO-linked data and reproducible `renv`.  
+- **macromarker (dev)** — Seurat add-on to score macrophage subtypes (M1, M2a–d, TAM flavors) with rank-based likelihood (in progress).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+[Google Scholar](https://scholar.google.com/citations?user=kXG7oU8AAAAJ&hl=en) • [LinkedIn](https://www.linkedin.com/in/aditi-singh-76b35753/)
+
+> Always happy to collaborate on immune single-cell & spatial projects.
