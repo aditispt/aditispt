@@ -57,7 +57,7 @@ HISAT2 | STAR | FeatureCounts | HPC integration
 ---
 
 📎 **Links**  
-[Personal Website](https://aditispt.github.io/) 
+[Personal Website](https://aditispt.github.io/)    
 [Google Scholar](https://scholar.google.com/citations?user=kXG7oU8AAAAJ&hl=en)  
 [LinkedIn](https://www.linkedin.com/in/aditi-singh-76b35753/)  
 
