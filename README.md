@@ -2,7 +2,7 @@
 **Director, Bioinformatics Core (OmicsInsight)**  
 Wayne State University  
 
-📄 **Research Portfolio:** [View PDF](Aditi_Singh_Research_portfolio.pdf)
+📄 **Research Portfolio:** [View PDF](Aditi_Singh_Research portfolio.pdf)
 
 Computational immunology | Single-cell & multi-omics | Translational systems biology  
 
