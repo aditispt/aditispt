@@ -2,6 +2,8 @@
 **Director, Bioinformatics Core (OmicsInsight)**  
 Wayne State University  
 
+📄 **Research Portfolio:** [View PDF](Aditi_Singh_Research_portfolio.pdf)
+
 Computational immunology | Single-cell & multi-omics | Translational systems biology  
 
 I lead multi-omics research programs integrating bulk RNA-seq, single-cell RNA-seq, CITE-seq, spatial transcriptomics, and functional genomics to understand immune regulation in development, pregnancy, and cancer. My work combines computational infrastructure with translational biology to uncover mechanisms driving immune imbalance and disease progression.
